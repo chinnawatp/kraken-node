@@ -1,16 +1,16 @@
 {
-  "name": "kraken",
-  "version": "0.4.0",
+  "name": "venuee-kraken",
+  "version": "1.0.0",
   "author": {
     "name": "Kraken.io",
     "email": "support@kraken.io"
   },
-  "description": "Plug into the power and speed of Kraken.io Image Optimizer",
-  "homepage": "https://github.com/kraken-io/kraken-node",
+  "description": "Plug into the power and speed of Kraken.io Image Optimizer fix opts.file instanceof Object",
+  "homepage": "https://github.com/chinnawatp/kraken-node",
   "main": "./lib/kraken",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kraken-io/kraken-node.git"
+    "url": "https://github.com/chinnawatp/kraken-node"
   },
   "keywords": [
     "kraken",
@@ -23,6 +23,6 @@
     "node": ">=0.8"
   },
   "dependencies": {
-    "request": "^2.67.0"
+    "request": "2.67.0"
   }
 }
